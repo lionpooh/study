@@ -49,6 +49,7 @@ public class Application {
 				log.info(bauer.toString());
 			}
 			log.info("");
+			
 		};
 	}
 
