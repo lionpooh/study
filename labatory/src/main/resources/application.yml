@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active: suy
+    
+---
+spring:
+  profiles: suy
+  
+server:
+  port: 28080
+
+---
+spring:
+  profiles: hello
+
+server:
+  port: 38080
